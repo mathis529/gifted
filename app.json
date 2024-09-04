@@ -21,7 +21,7 @@
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "254763735777"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
@@ -29,7 +29,7 @@
       "value": "false"
     },
     "SESSION_ID": {
-      "description": "Put your SESSION_ID.  Must start with Gifted~",
+      "description": "Gifted~Nutp0c6Y~",
       "required": true,
       "value": ""
     },
