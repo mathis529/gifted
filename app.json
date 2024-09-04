@@ -8,12 +8,12 @@
   "success_url": "/",
   "stack": "heroku-24",
   "env": { 
-    "MODE": {
+    "MODE": {"private" 
       "description": "Put Mode either public or private",
       "required": true,
       "value": "public"
     },
-     "OWNER_NAME": {
+     "OWNER_NAME": {"Joseph"
       "description": "Put the name of Bot Owner",
       "required": true,
       "value": "GIFTED TECH"
@@ -23,12 +23,12 @@
       "required": true,
       "value": "254763735777"
     },
-    "AUTO_STICKER": {
+    "AUTO_STICKER": {"true" 
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
       "required": false,
       "value": "false"
     },
-    "SESSION_ID": {
+    "SESSION_ID": {"Gifted~Nutp0c6Y" 
       "description": "Gifted~Nutp0c6Y~",
       "required": true,
       "value": ""
@@ -38,22 +38,22 @@
       "required": false,
       "value": "false"
     },
-     "WELCOME": {
+     "WELCOME": {"false" 
       "description": "Put true or false to enableand disable group welcoming and goodbye messages",
       "required": true,
       "value": "false"
     },
-    "AUTO_READ_STATUS": {
+    "AUTO_READ_STATUS": {"true" 
       "description": "Put true if you want bot to view status",
       "required": false,
       "value": "true"
     },
-    "AUTO_READ": {
+    "AUTO_READ": {"false" 
       "description": "Put true if you want bot to read message",
       "required": false,
       "value": ""
     },
-    "AUTO_TYPING": {
+    "AUTO_TYPING": {"true" 
       "description": "Put true if you want bot to show typing",
       "required": false,
       "value": ""
@@ -63,17 +63,17 @@
       "required": false,
       "value": ""
     },
-    "ALWAYS_ONLINE": {
+    "ALWAYS_ONLINE": {"true" 
       "description": "Put true if you want bot to show always online",
       "required": true,
       "value": "true"
     },
-    "AUTO_DOWNLOAD": {
+    "AUTO_DOWNLOAD": {"true" 
       "description": "Put true if you need to download media by using link without cmd",
       "required": false,
       "value": "false"
     },
-    "AUTO_BLOCK": {
+    "AUTO_BLOCK": {"true" 
       "description": "Put true if you want bot to auto block only 212 numbers",
       "required": false,
       "value": "true"
